@@ -117,6 +117,8 @@
 //   return { ...student, average: aver };
 // });
 // console.log(averages);
+// const more85 = averages.filter((student) => student.average > 85);
+// console.log(more85);
 
 // 8
 // const employees = {
